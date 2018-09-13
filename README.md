@@ -92,5 +92,4 @@ http://178.132.5.243:25461/live/Lara/1234/4872.ts
 http://178.132.5.243:25461/live/Lara/1234/4873.ts
 #EXTINF:-1,NBC Sports Northwest
 http://178.132.5.243:25461/live/Lara/1234/4874.ts
-#EXTINF:-1,NBC Sports Philadelphia
-http://178.132.5.243:25461/live/Lara/1234/4869.ts
+
